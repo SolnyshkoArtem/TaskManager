@@ -1,0 +1,20 @@
+﻿TaskManager
+
+
+winexe
+C#
+.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\
+TaskManager
+none
+false
+DEBUG;TRACE
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\App.xaml
+131297283351
+21659461297
+26-96214362
+181324992265
+MainWindow.xaml;Windows\AddEmployeeManager.xaml;Windows\EmployeeWin.xaml;Windows\Pages\AddEmp.xaml;Windows\Pages\AddTask.xaml;Windows\Pages\AdminEmployee.xaml;Windows\Pages\AdminMainPage.xaml;Windows\Pages\EmpCurTaskPage.xaml;Windows\Pages\EmpTasksPage.xaml;Windows\Pages\ManagerStep.xaml;Windows\Pages\ManagerTaskPage.xaml;Windows\Pages\MnTask.xaml;Windows\Pages\StepInfo.xaml;
+
+False
+

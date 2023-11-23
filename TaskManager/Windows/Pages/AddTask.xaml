@@ -1,0 +1,59 @@
+﻿<Page x:Class="TaskManager.Windows.Pages.AddTask"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TaskManager.Windows.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="825"
+      Title="AddTask">
+
+    <Grid>
+        
+        
+        
+        <Border Grid.RowSpan="2" Grid.ColumnSpan="2" Background="#32323E" CornerRadius="20" Opacity="0.9">
+        </Border>
+        <StackPanel VerticalAlignment="Center">
+            <Button Content="Назад" Margin="0,0,0,30" Width="250" Style="{StaticResource Btn}" Height="40" Click="Button_Click_1"/>
+
+            <Label Style="{StaticResource title}">Название</Label>
+            <TextBox x:Name="name" HorizontalContentAlignment="Center" Height="45" Width="350" Style="{StaticResource Input2}"/>
+            <Label Content="" FontSize="15" Margin="30,0,0,0" HorizontalAlignment="Left" x:Name="nameErr" Style="{StaticResource title}">
+                <Label.Foreground>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#4568DC" Offset="0.0"/>
+                        <GradientStop Color="#B06AB3" Offset="1"/>
+                    </LinearGradientBrush>
+
+                </Label.Foreground>
+            </Label>
+            <Label Style="{StaticResource title}">Начало</Label>
+            <TextBox x:Name="start" HorizontalContentAlignment="Center" Height="45" Width="350" Style="{StaticResource Input2}"/>
+            <Label Content="" FontSize="15" Margin="30,0,0,0" HorizontalAlignment="Left" x:Name="StartErr" Style="{StaticResource title}">
+                <Label.Foreground>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#4568DC" Offset="0.0"/>
+                        <GradientStop Color="#B06AB3" Offset="1"/>
+                    </LinearGradientBrush>
+
+                </Label.Foreground>
+            </Label>
+            <Label Style="{StaticResource title}">Окончание</Label>
+            <TextBox x:Name="end" HorizontalContentAlignment="Center" Height="45" Width="350" Style="{StaticResource Input2}"/>
+            <Label Content="" FontSize="15" Margin="30,0,0,0" HorizontalAlignment="Left" x:Name="EndErr" Style="{StaticResource title}">
+                <Label.Foreground>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#4568DC" Offset="0.0"/>
+                        <GradientStop Color="#B06AB3" Offset="1"/>
+                    </LinearGradientBrush>
+
+                </Label.Foreground>
+            </Label>
+
+
+            <Button Content="Добавить" Width="250" Style="{StaticResource Btn}" Height="40" Click="Button_Click"/>
+
+        </StackPanel>
+    </Grid>
+</Page>

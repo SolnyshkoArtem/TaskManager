@@ -1,0 +1,13 @@
+C:\All\vsproj\TaskManager\TaskManagerData\bin\Debug\TaskManagerData.dll.config
+C:\All\vsproj\TaskManager\TaskManagerData\bin\Debug\TaskManagerData.dll
+C:\All\vsproj\TaskManager\TaskManagerData\bin\Debug\TaskManagerData.pdb
+C:\All\vsproj\TaskManager\TaskManagerData\bin\Debug\EntityFramework.dll
+C:\All\vsproj\TaskManager\TaskManagerData\bin\Debug\EntityFramework.SqlServer.dll
+C:\All\vsproj\TaskManager\TaskManagerData\bin\Debug\EntityFramework.xml
+C:\All\vsproj\TaskManager\TaskManagerData\bin\Debug\EntityFramework.SqlServer.xml
+C:\All\vsproj\TaskManager\TaskManagerData\bin\Debug\ru\EntityFramework.resources.dll
+C:\All\vsproj\TaskManager\TaskManagerData\obj\Debug\TaskManagerData.csproj.AssemblyReference.cache
+C:\All\vsproj\TaskManager\TaskManagerData\obj\Debug\TaskManagerData.csproj.CoreCompileInputs.cache
+C:\All\vsproj\TaskManager\TaskManagerData\obj\Debug\TaskManagerData.csproj.CopyComplete
+C:\All\vsproj\TaskManager\TaskManagerData\obj\Debug\TaskManagerData.dll
+C:\All\vsproj\TaskManager\TaskManagerData\obj\Debug\TaskManagerData.pdb

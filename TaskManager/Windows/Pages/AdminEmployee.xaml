@@ -1,0 +1,37 @@
+﻿<Page x:Class="TaskManager.Windows.Pages.AdminEmployee"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TaskManager.Windows.Pages"
+      mc:Ignorable="d" 
+     d:DesignHeight="700" d:DesignWidth="825"
+      Title="AdminEmployee">
+
+    <Grid>
+
+        <Border Grid.RowSpan="2" Grid.ColumnSpan="2" Background="#32323E" CornerRadius="20" Opacity="0.9">
+        </Border>
+        <StackPanel>
+
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Grid.Row="0" Grid.Column="1">
+                <Button Margin="35,0,0,0"  Grid.Row="0" Grid.Column="1" Style="{StaticResource Btn}" Content="Добавить" Width="200" Height="38" Click="Button_Click_1" />
+                <Button Margin="35,0,0,0"  Grid.Row="0" Grid.Column="1" Style="{StaticResource Btn}" Content="Удалить" Width="200" Height="38" Click="Button_Click"  />
+            </StackPanel>
+            <DataGrid x:Name="gr" FontSize="20" FontFamily="Fonts/golos-ui_regular.ttf #Golos UI" Grid.Row="1"  Grid.Column="1" Margin="35"  AutoGenerateColumns="False" IsTabStop="True">
+
+
+                <DataGrid.Columns >
+                    <DataGridTextColumn  Foreground="#FFFFFF" FontSize="15" Width="*" Header="Имя" Binding="{Binding Path=Name}"  />
+
+                    <DataGridTextColumn Foreground="#FFFFFF" FontSize="15" Width="*" Header="Фамилия" Binding="{Binding Path=SName}"  />
+                    <DataGridTextColumn Foreground="#FFFFFF" FontSize="15"  Width="1*" Header="Должность"  Binding="{Binding Path=Position}"  />
+                    <DataGridTextColumn Foreground="#FFFFFF" FontSize="15" Width="*" Header="Логин"  Binding="{Binding Path=Login}"  />
+                    <DataGridTextColumn Foreground="#FFFFFF" FontSize="15" Width="*" Header="Пароль"  Binding="{Binding Path=Password}"  />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+
+
+    </Grid>
+</Page>

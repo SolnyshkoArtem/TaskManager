@@ -1,0 +1,35 @@
+﻿<Page x:Class="TaskManager.Windows.Pages.AddEmp"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TaskManager.Windows.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="825"
+      Title="AddEmp">
+
+    <Grid>
+
+        <Border Grid.RowSpan="2" Grid.ColumnSpan="2" Background="#32323E" CornerRadius="20" Opacity="0.9">
+        </Border>
+        <StackPanel x:Name="Panel" Width="450" >
+            <Label Style="{StaticResource title}" Content="Имя"/>
+            <TextBox Name="name" Style="{StaticResource Input}" Text="{Binding Path=Name}"/>
+            <Label Style="{StaticResource title}" Content="Фамилия"/>
+            <TextBox Name="sname" Style="{StaticResource Input}" Text="{Binding Path=Day}"/>
+            <Label  Style="{StaticResource title}" Content="Должность"/>
+            <TextBox Name="pos" Style="{StaticResource Input}" Text="{Binding Path=Status}"/>
+            <Label  Style="{StaticResource title}" Content="Логин"/>
+            <TextBox Name="log" Style="{StaticResource Input}" Text="{Binding Path=Status}"/>
+            <Label  Style="{StaticResource title}" Content="Пароль"/>
+            <TextBox Name="pass" Style="{StaticResource Input}" Text="{Binding Path=Status}"/>
+
+            <Button Margin="0,50,0,0" Click="SaveButton" Grid.Row="0" Grid.Column="1" Style="{StaticResource Btn}" Content="Сохранить" Width="150" Height="38" />
+
+
+
+        </StackPanel>
+
+
+    </Grid>
+</Page>

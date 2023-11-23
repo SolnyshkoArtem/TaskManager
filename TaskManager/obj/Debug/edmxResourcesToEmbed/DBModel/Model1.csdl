@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TaskManagerDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Position" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Step" Relationship="Self.StepEmp" FromRole="Employee" ToRole="Step" />
+  </EntityType>
+  <EntityType Name="Step">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Day" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Status" Type="Boolean" />
+    <Property Name="IDTask" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Task" Relationship="Self.FK_Step_Task" FromRole="Step" ToRole="Task" />
+    <NavigationProperty Name="Employee" Relationship="Self.StepEmp" FromRole="Step" ToRole="Employee" />
+  </EntityType>
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="StartDate" Type="DateTime" Precision="0" />
+    <Property Name="EndDate" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Step" Relationship="Self.FK_Step_Task" FromRole="Task" ToRole="Step" />
+  </EntityType>
+  <Association Name="FK_Step_Task">
+    <End Role="Task" Type="Self.Task" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Step" Type="Self.Step" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Task">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Step">
+        <PropertyRef Name="IDTask" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="StepEmp">
+    <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+    <End Role="Step" Type="Self.Step" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="TaskManagerDBEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employee" EntityType="Self.Employee" />
+    <EntitySet Name="Step" EntityType="Self.Step" />
+    <EntitySet Name="Task" EntityType="Self.Task" />
+    <AssociationSet Name="FK_Step_Task" Association="Self.FK_Step_Task">
+      <End Role="Task" EntitySet="Task" />
+      <End Role="Step" EntitySet="Step" />
+    </AssociationSet>
+    <AssociationSet Name="StepEmp" Association="Self.StepEmp">
+      <End Role="Employee" EntitySet="Employee" />
+      <End Role="Step" EntitySet="Step" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

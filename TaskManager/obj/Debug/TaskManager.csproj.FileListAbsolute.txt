@@ -1,0 +1,198 @@
+C:\All\vsproj\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\All\vsproj\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\All\vsproj\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\App.g.cs
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\EmployeeWin.g.cs
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\EmployeeWin.baml
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\App.baml
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\EmployeeWin.g.cs
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\App.g.cs
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\App.baml
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\EmployeeWin.baml
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\EmployeeWin.g.cs
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\App.g.cs
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\App.baml
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\EmployeeWin.baml
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpTasksPage.g.cs
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpTasksPage.baml
+C:\All\vsproj\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\EmployeeWin.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpCurTaskPage.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpTasksPage.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\App.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\App.baml
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\EmployeeWin.baml
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpCurTaskPage.baml
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpTasksPage.baml
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.dll
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.xml
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\bin\Debug\ru\EntityFramework.resources.dll
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_Content.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager (1)\TaskManager\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpCurTaskPage.g.cs
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpTasksPage.g.cs
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\TaskManager_Content.g.cs
+C:\All\vsproj\TaskManager\TaskManager\bin\Debug\EntityFramework.dll
+C:\All\vsproj\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\All\vsproj\TaskManager\TaskManager\bin\Debug\EntityFramework.xml
+C:\All\vsproj\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\All\vsproj\TaskManager\TaskManager\bin\Debug\ru\EntityFramework.resources.dll
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpCurTaskPage.baml
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpTasksPage.baml
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\ManagerTaskPage.g.cs
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\ManagerTaskPage.baml
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\AddTask.g.cs
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\AddTask.baml
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\MnTask.g.cs
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\MnTask.baml
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\ManagerStep.g.cs
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\ManagerStep.baml
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\StepInfo.g.cs
+C:\All\vsproj\TaskManager\TaskManager\obj\Debug\Windows\Pages\StepInfo.baml
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.dll
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.xml
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\bin\Debug\ru\EntityFramework.resources.dll
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\EmployeeWin.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\AddTask.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpCurTaskPage.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpTasksPage.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\ManagerStep.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\ManagerTaskPage.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\MnTask.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\StepInfo.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\App.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_Content.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\App.baml
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\EmployeeWin.baml
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\AddTask.baml
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpCurTaskPage.baml
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpTasksPage.baml
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\ManagerStep.baml
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\ManagerTaskPage.baml
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\MnTask.baml
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\StepInfo.baml
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\AddEmployeeManager.g.cs
+E:\Users\poskannyjag\Downloads\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\AddEmployeeManager.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.dll
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.xml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\AddEmployeeManager.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\EmployeeWin.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\AddTask.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpCurTaskPage.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpTasksPage.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\ManagerStep.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\ManagerTaskPage.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\MnTask.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\StepInfo.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\App.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_Content.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\App.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\AddEmployeeManager.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\EmployeeWin.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\AddTask.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpCurTaskPage.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\EmpTasksPage.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\ManagerStep.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\ManagerTaskPage.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\MnTask.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\StepInfo.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\AdminEmployee.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\AdminMainPage.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\AdminEmployee.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\AdminMainPage.baml
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\AddEmp.g.cs
+C:\Users\nifed\Downloads\TaskManager (2)\TaskManager\TaskManager\TaskManager\obj\Debug\Windows\Pages\AddEmp.baml

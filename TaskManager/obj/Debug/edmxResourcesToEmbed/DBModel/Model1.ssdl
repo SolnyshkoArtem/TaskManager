@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище TaskManagerDBModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Position" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Login" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Step">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="100" />
+    <Property Name="Day" Type="nchar" MaxLength="10" />
+    <Property Name="Status" Type="bit" />
+    <Property Name="IDTask" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="StepEmp">
+    <Key>
+      <PropertyRef Name="IDEmp" />
+      <PropertyRef Name="IDStep" />
+    </Key>
+    <Property Name="IDEmp" Type="int" Nullable="false" />
+    <Property Name="IDStep" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Status" Type="varchar" MaxLength="50" />
+    <Property Name="StartDate" Type="date" />
+    <Property Name="EndDate" Type="date" />
+  </EntityType>
+  <Association Name="FK_Step_Task">
+    <End Role="Task" Type="Self.Task" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Step" Type="Self.Step" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Task">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Step">
+        <PropertyRef Name="IDTask" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StepEmp_Employee">
+    <End Role="Employee" Type="Self.Employee" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="StepEmp" Type="Self.StepEmp" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employee">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="StepEmp">
+        <PropertyRef Name="IDEmp" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StepEmp_Step">
+    <End Role="Step" Type="Self.Step" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="StepEmp" Type="Self.StepEmp" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Step">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="StepEmp">
+        <PropertyRef Name="IDStep" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище TaskManagerDBModelContainer">
+    <EntitySet Name="Employee" EntityType="Self.Employee" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Step" EntityType="Self.Step" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StepEmp" EntityType="Self.StepEmp" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Task" EntityType="Self.Task" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Step_Task" Association="Self.FK_Step_Task">
+      <End Role="Task" EntitySet="Task" />
+      <End Role="Step" EntitySet="Step" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StepEmp_Employee" Association="Self.FK_StepEmp_Employee">
+      <End Role="Employee" EntitySet="Employee" />
+      <End Role="StepEmp" EntitySet="StepEmp" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StepEmp_Step" Association="Self.FK_StepEmp_Step">
+      <End Role="Step" EntitySet="Step" />
+      <End Role="StepEmp" EntitySet="StepEmp" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
